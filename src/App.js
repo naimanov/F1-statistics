@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <GlobalProvider>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <SelectSeason />
           <Navbar />
           <TableProvider>

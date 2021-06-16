@@ -8,7 +8,7 @@ import {
 
 import reducer from '../reducer';
 
-const rootUrl = 'http://ergast.com/api/f1';
+const rootUrl = 'https://ergast.com/api/f1';
 
 const initialState = {
   table_title: '',

@@ -316,6 +316,8 @@ BTN-SEASON
   margin: auto;
   margin-top: 3rem;
   margin-bottom: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   width: 100%;
 }
 
@@ -324,6 +326,8 @@ BTN-SEASON
     margin: auto;
     margin-top: 0rem;
     margin-bottom: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     width: 100%;
   }
 }
